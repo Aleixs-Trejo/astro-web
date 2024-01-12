@@ -378,7 +378,7 @@ input[id="menu"]{
   .nav__links{
     margin: 0 auto;
     width: 55%;
-    max-width: 25rem;
+    max-width: 30rem;
     flex-direction: row;
     gap: unset;
     justify-content: space-between;
